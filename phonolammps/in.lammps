@@ -1,0 +1,11 @@
+
+units		meta
+boundary	p p p
+
+atom_style      atomic
+read_data       str.lmp
+
+pair_style      deepmd frozen_model_compressed.pb
+pair_coeff  * *
+
+neighbor	0.3 bin
