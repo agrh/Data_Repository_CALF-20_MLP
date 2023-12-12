@@ -1,0 +1,24 @@
+PREC = A
+ENCUT = 650
+EDIFF  = 1e-5
+EDIFFG = -0.01
+NELM=300
+ISIF   = 2
+NPAR=8
+ISMEAR = 0
+SIGMA = 0.01
+ISTART = 0
+ADDGRID = T
+IVDW=11
+LREAL= Auto 
+
+IBRION = 0
+POTIM = 0.5
+MDALGO = 2
+SMASS=0
+#TEBEG = xxx # Please specify by yourself
+#TEEND = xxx # Please specify by yourself
+NSW = 10000
+LCHARG = F
+LWAVE  = F
+ISYM =0
