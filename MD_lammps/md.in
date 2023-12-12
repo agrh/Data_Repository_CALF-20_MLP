@@ -1,0 +1,35 @@
+
+units           metal
+boundary        p p p
+atom_style      atomic
+
+#neighbor        0.3 bin
+neigh_modify    every 10 delay 0 check yes
+
+
+read_data      str.lmp 
+group           fram     id   1:352
+
+# read_restart tmp.restart.3000000
+
+mass            1   65.38000000             # Zn
+mass            2   14.00700000             # N
+mass            3   15.99900000             # O
+mass            4   12.01100000             # C
+mass            5   1.00800000              # H
+
+pair_style      deepmd  ../frozen_model_compressed.pb
+pair_coeff  * *
+
+
+timestep        0.0005
+thermo_style custom step  time  temp press  pe  ke etotal 
+
+thermo          100
+ 
+
+dump            nvt_lammpstrj all atom 100 nvt_298.15.lammpstrj
+fix             4 fram nvt temp 298.15 298.15    0.05
+run             2000000
+unfix           4
+undump         nvt_lammpstrj
