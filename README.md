@@ -38,6 +38,7 @@ Examples of the MD simulations with the NVT ensemble using the LAMMPS+DeePMD bas
 **D.F. & G.M.**
 
 Email: dong.fan[at]cnrs.fr and/or guillaume.maurin1[at]umontpellier.fr
+
 ICGM UMR 5253, 1919 Rte de Mende, 34293 Montpellier Cedex 5
 # License
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0
