@@ -28,8 +28,16 @@ The source files used to compute the phonon spectrum via the phonopy and phonoLA
 * phonoLAMMPS: https://github.com/abelcarreras/phonolammps
 ### MD_lammps
 Examples of the MD simulations with the NVT ensemble using the LAMMPS+DeePMD based on the MLP.
-
 * Lammps: https://github.com/lammps/lammps
+
+
+### The Supplementary movies can be accessed via the link below:
+
+* Supplementary Movie S1: http://www.fandong.org/CALF-20_MLP_Movie_S1.html
+* Supplementary Movie S2: http://www.fandong.org/CALF-20_MLP_Movie_S2.html
+* Supplementary Movie S3: http://www.fandong.org/CALF-20_MLP_Movie_S3.html
+* Supplementary Movie S4: http://www.fandong.org/CALF-20_MLP_Movie_S4.html
+
 ### Visualization packages that have been used in this work
 
 * VESTA: https://jp-minerals.org/vesta
