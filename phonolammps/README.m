@@ -2,5 +2,6 @@ Run this example as follows to generate the force constants and show band struct
 phonolammps  md.in  -c POSCAR_unit_cell --dim 3 3 3  -p
 
 #Note:
-Force constant file larger than 25Mb is not allowed to be posted, please contact the author if required.
-updated [12 Dec. 2023]
+Force constant file larger than 25Mb is not allowed to be posted, please visit the following link:
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10650655.svg)](https://doi.org/10.5281/zenodo.10650655)
+
