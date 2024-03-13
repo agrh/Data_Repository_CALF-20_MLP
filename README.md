@@ -2,7 +2,7 @@
 
 This Repository provides supplementary data to support the results of the paper:
 
-"_**Unconventional mechanical and thermal behaviors of MOF CALF-20**_". 
+"_**Unconventional mechanical and thermal behaviours of MOF CALF-20**_". 
 
 by [D. Fan](https://scholar.google.com/citations?user=fq_Q0rkAAAAJ&hl=en](https://scholar.google.com/citations?hl=en&user=fq_Q0rkAAAAJ&view_op=list_works&sortby=pubdate)), [S. Naskar](https://scholar.google.com/citations?hl=en&user=7qyxfhAAAAAJ&view_op=list_works&sortby=pubdate), and [G. Maurin](https://scholar.google.com/citations?hl=en&user=QNfwyjgAAAAJ&view_op=list_works&sortby=pubdate)
 
