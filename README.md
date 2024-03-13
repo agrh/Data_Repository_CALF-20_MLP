@@ -6,15 +6,19 @@ This Repository provides supplementary data to support the results of the paper:
 
 by [D. Fan](https://scholar.google.com/citations?user=fq_Q0rkAAAAJ&hl=en](https://scholar.google.com/citations?hl=en&user=fq_Q0rkAAAAJ&view_op=list_works&sortby=pubdate)), [S. Naskar](https://scholar.google.com/citations?hl=en&user=7qyxfhAAAAAJ&view_op=list_works&sortby=pubdate), and [G. Maurin](https://scholar.google.com/citations?hl=en&user=QNfwyjgAAAAJ&view_op=list_works&sortby=pubdate)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10815341.svg)](https://doi.org/10.5281/zenodo.10815341)
+
+** Citation of the datasets: 
+
+_Fan, D., Naskar, S., & Maurin G. Unconventional mechanical and thermal behaviours of MOF CALF-20. Zenodo database, https://doi.org/10.5281/zenodo.10815341, (2024)_
+
+
 ##
 
 ** As an additional supplement, we also deposit all the source files on the Zenodo platform, please check the following link:
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10650655.svg)](https://doi.org/10.5281/zenodo.10650655)
 
-** Citation of the datasets: 
-
-_D. Fan, S. Naskar, & G. Maurin. (2024). Unconventional mechanical and thermal behaviors of MOF CALF-20. DOI: 10.5281/zenodo.10650655_
 
 ##
 
