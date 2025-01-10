@@ -52,10 +52,7 @@ Examples of the MD simulations with the NVT ensemble using the LAMMPS+DeePMD bas
 
 ### The Supplementary movies can be accessed via the link below:
 
-* Supplementary Movie S1: http://www.fandong.org/CALF-20_MLP_Movie_S1.html
-* Supplementary Movie S2: http://www.fandong.org/CALF-20_MLP_Movie_S2.html
-* Supplementary Movie S3: http://www.fandong.org/CALF-20_MLP_Movie_S3.html
-* Supplementary Movie S4: http://www.fandong.org/CALF-20_MLP_Movie_S4.html
+* Supplementary Movie S1-S4: https://www.nature.com/articles/s41467-024-47695-6#Sec13
 
 ### Visualization packages that have been used in this work
 
@@ -64,7 +61,7 @@ Examples of the MD simulations with the NVT ensemble using the LAMMPS+DeePMD bas
 # Contact information
 **D.F. & G.M.**
 
-Email: dong.fan[at]cnrs.fr and/or guillaume.maurin1[at]umontpellier.fr
+Email: fandong[at]outlook.com and/or guillaume.maurin1[at]umontpellier.fr
 
 ICGM UMR 5253, 1919 Rte de Mende, 34293 Montpellier Cedex 5
 # License
